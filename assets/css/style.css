@@ -3495,7 +3495,7 @@ p {
   color: #7DA1BF;
 }
 .navbar-style-7 .navbar-container .navbar-top-wrapper {
-  background-color: #00acb2;
+  background-color: #1B2A37;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .navbar-style-7 .navbar-container .navbar-top-wrapper {
@@ -3610,7 +3610,7 @@ p {
   .navbar-top-link
   li
   a:hover {
-  color: #7DA1BF;
+  color: #EDD050;
 }
 .navbar-style-7
   .navbar-container
@@ -3778,7 +3778,7 @@ p {
   .navbar-top-link
   li
   .nice-select:hover::after {
-  border-color: #7DA1BF;
+  border-color: #EDD050;
 }
 .navbar-style-7
   .navbar-container
@@ -3788,7 +3788,7 @@ p {
   li
   .nice-select:hover
   .current {
-  color: #7DA1BF;
+  color: #EDD050;
 }
 .navbar-style-7
   .navbar-container
@@ -3863,7 +3863,7 @@ p {
   .navbar-top-link
   li
   a:hover {
-  color: #7DA1BF;
+  color: #EDD050;
 }
 .navbar-style-7 .navbar-container .main-navbar .navbar-menu .main-menu {
   display: -moz-flex;
