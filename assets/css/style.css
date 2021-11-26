@@ -3425,6 +3425,7 @@ p {
   background-color: #fff;
 }
 .navbar-style-7 .navbar-mobile {
+  
   padding: 15px 0;
 }
 .navbar-style-7 .desktop-logo {
@@ -9687,7 +9688,7 @@ p {
 .content-card-style-1 {
   padding-top: 200px;
   padding-bottom: 200px;
-  background-color: #eee;
+  background-color: #7DA1BF;
   position: relative;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -9748,7 +9749,7 @@ p {
   font-weight: 700;
   font-size: 24px;
   line-height: 30px;
-  color: #000;
+  color: #EDD050;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .content-card-style-1 .content-card-content .sub-title {
@@ -9772,7 +9773,7 @@ p {
   font-weight: 500;
   font-size: 52px;
   line-height: 65px;
-  color: #000;
+  color: #1B2A37;
   margin-top: 16px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -10935,7 +10936,7 @@ p {
   color: #e14c7b;
 }
 .footer-style-3 {
-  background-color: #fafafa;
+  background-color: #fff;
 }
 .footer-style-3 .footer-top .footer-widget-subscribe {
   margin-top: 32px;
@@ -10979,7 +10980,7 @@ p {
 }
 .footer-style-3 .footer-top .footer-follow li a {
   font-size: 20px;
-  color: #7DA1BF;
+  color: #1B2A37;
 }
 @media (max-width: 767px) {
   .footer-style-3 .footer-top .footer-follow li a {
