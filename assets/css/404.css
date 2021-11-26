@@ -22,10 +22,20 @@ body {
 .boton {
     display: inline-block;
     margin-top: 15px;
+    margin-left: 150px;
     text-decoration: none;
-    background: #1a84d3;
-    color: #fff;
+    background: #1B2A37;
+    color: #EDD050;
     padding: 10px 15px;
     border-radius: 5px;
     font-size: 15px;
+}
+
+.tamaño_error {
+    font-size: xx-large;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
 }
