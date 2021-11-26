@@ -3429,8 +3429,8 @@ p {
 }
 .navbar-style-7 .desktop-logo {
   margin-right: 10px;
-  height: 200px;
-  width: 280px;
+  height: 70px;
+  width: 110px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .navbar-style-7 .navbar-container {
@@ -3481,7 +3481,7 @@ p {
   }
 }
 .navbar-style-7 .navbar-container .navbar-close {
-  position: absolute;
+  position: fixed;
   top: 5px;
   right: 15px;
 }
