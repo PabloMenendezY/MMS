@@ -485,7 +485,7 @@ p {
   background-color: #eee6fd;
 }
 .secondary-1-color {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .secondary-1-variant {
   color: #b62f5c;
@@ -494,7 +494,7 @@ p {
   color: #fae5ec;
 }
 .bg-secondary-1-color {
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .bg-secondary-1-variant {
   background-color: #b62f5c;
@@ -637,9 +637,9 @@ p {
     left top,
     left bottom,
     from(#7DA1BF),
-    to(#e14c7b)
+    to(#EDD050)
   );
-  background: linear-gradient(#7DA1BF 0%, #e14c7b 100%);
+  background: linear-gradient(#7DA1BF 0%, #EDD050 100%);
 }
 .primary-gradient-4 {
   background: -webkit-gradient(
@@ -686,70 +686,70 @@ p {
     linear,
     left top,
     left bottom,
-    from(#e14c7b),
+    from(#EDD050),
     to(#b62f5c)
   );
-  background: linear-gradient(#e14c7b 0%, #b62f5c 100%);
+  background: linear-gradient(#EDD050 0%, #b62f5c 100%);
 }
 .secondary-gradient-2 {
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    from(#e14c7b),
+    from(#EDD050),
     to(#fae5ec)
   );
-  background: linear-gradient(#e14c7b 0%, #fae5ec 100%);
+  background: linear-gradient(#EDD050 0%, #fae5ec 100%);
 }
 .secondary-gradient-3 {
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    from(#e14c7b),
+    from(#EDD050),
     to(#00d4e0)
   );
-  background: linear-gradient(#e14c7b 0%, #00d4e0 100%);
+  background: linear-gradient(#EDD050 0%, #00d4e0 100%);
 }
 .secondary-gradient-4 {
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    from(#e14c7b),
+    from(#EDD050),
     to(#393d8e)
   );
-  background: linear-gradient(#e14c7b 0%, #393d8e 100%);
+  background: linear-gradient(#EDD050 0%, #393d8e 100%);
 }
 .secondary-gradient-5 {
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    from(#e14c7b),
+    from(#EDD050),
     to(#00c2fe)
   );
-  background: linear-gradient(#e14c7b 0%, #00c2fe 100%);
+  background: linear-gradient(#EDD050 0%, #00c2fe 100%);
 }
 .secondary-gradient-6 {
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    from(#e14c7b),
+    from(#EDD050),
     to(#f97c14)
   );
-  background: linear-gradient(#e14c7b 0%, #f97c14 100%);
+  background: linear-gradient(#EDD050 0%, #f97c14 100%);
 }
 .secondary-gradient-7 {
   background: -webkit-gradient(
     linear,
     left top,
     left bottom,
-    from(#e14c7b),
+    from(#EDD050),
     to(#4c4c4c)
   );
-  background: linear-gradient(#e14c7b 0%, #4c4c4c 100%);
+  background: linear-gradient(#EDD050 0%, #4c4c4c 100%);
 }
 .accent-gradient-1 {
   background: -webkit-gradient(
@@ -1177,7 +1177,7 @@ p {
 }
 .secondary-1-icon,
 .secondary-1-btn {
-  background-color: #e14c7b;
+  background-color: #EDD050;
   color: #fff;
 }
 .secondary-1-icon:hover,
@@ -1191,23 +1191,23 @@ p {
 }
 .secondary-1-icon-border,
 .secondary-1-btn-border {
-  border: 1px solid #e14c7b;
-  color: #e14c7b;
+  border: 1px solid #EDD050;
+  color: #EDD050;
   line-height: 38px;
 }
 .secondary-1-icon-border:hover,
 .secondary-1-btn-border:hover {
   -webkit-box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.32);
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.32);
-  color: #e14c7b;
+  color: #EDD050;
 }
 .secondary-1-icon-text,
 .secondary-1-btn-text {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .secondary-1-icon-text:hover,
 .secondary-1-btn-text:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .secondary-2-icon,
 .secondary-2-btn {
@@ -1492,7 +1492,7 @@ p {
   font-size: 12px;
 }
 .icon-text.text-style-1 {
-  background-color: #e14c7b;
+  background-color: #EDD050;
   color: #fff;
 }
 .icon-text.text-style-2 {
@@ -1502,19 +1502,19 @@ p {
   box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.25);
 }
 .icon-text.text-style-3 {
-  color: #e14c7b;
-  border: 1px solid #e14c7b;
+  color: #EDD050;
+  border: 1px solid #EDD050;
   line-height: 18px;
 }
 .icon-text.text-style-4 {
   background-color: #fff;
-  color: #e14c7b;
+  color: #EDD050;
   -webkit-box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.25);
   box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.25);
 }
 .icon-text.text-style-5 {
   color: #00d4e0;
-  border: 1px solid #e14c7b;
+  border: 1px solid #EDD050;
   line-height: 18px;
 }
 .icon-text.text-style-6 {
@@ -1525,7 +1525,7 @@ p {
 }
 .icon-text.text-style-7 {
   color: #7cb637;
-  border: 1px solid #e14c7b;
+  border: 1px solid #EDD050;
   line-height: 18px;
 }
 .icon-text.text-style-8 {
@@ -1984,7 +1984,7 @@ p {
 }
 .alert-secondary-1-light {
   background-color: #fae5ec;
-  color: #e14c7b;
+  color: #EDD050;
 }
 .alert-secondary-1-light.alert-dismissible .close {
   color: rgba(0, 0, 0, 0.8);
@@ -2010,7 +2010,7 @@ p {
   color: #000;
 }
 .alert-secondary-1-bg {
-  background-color: #e14c7b;
+  background-color: #EDD050;
   color: #fff;
 }
 .alert-secondary-1-bg.alert-dismissible .close {
@@ -3132,10 +3132,12 @@ p {
 @media (max-width: 767px) {
   .breadcrumbs-style {
     padding: 1px 16px 16px;
+    background-color: #C8C7B9;
   }
 }
 .breadcrumbs-style .breadcrumb-left {
   padding-top: 15px;
+  
 }
 .breadcrumbs-style .breadcrumb-left .breadcrumb {
   margin-bottom: 0;
@@ -5048,7 +5050,7 @@ p {
   .navbar-top-link
   li
   a:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .navbar-dark-7 .navbar-container .main-navbar .navbar-menu .main-menu li a {
   color: #fff;
@@ -5088,7 +5090,7 @@ p {
   .main-menu
   li:hover
   > a {
-  background-color: #e14c7b;
+  background-color: #EDD050;
   color: #fff;
   -webkit-box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.32);
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.32);
@@ -5102,7 +5104,7 @@ p {
     li:hover
     > a {
     background-color: transparent;
-    color: #e14c7b;
+    color: #EDD050;
     -webkit-box-shadow: none;
     box-shadow: none;
   }
@@ -5116,7 +5118,7 @@ p {
     li:hover
     > a {
     background-color: transparent;
-    color: #e14c7b;
+    color: #EDD050;
     -webkit-box-shadow: none;
     box-shadow: none;
   }
@@ -5235,7 +5237,7 @@ p {
   ul
   li:hover
   > a {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .navbar-dark-7 .navbar-toggle .icon-btn,
 .navbar-dark-7 .navbar-cart .icon-btn {
@@ -5401,21 +5403,21 @@ p {
   color: #fff;
 }
 .login-registration-dark-style-1 .single-form .form-input span {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .login-registration-dark-style-1
   .single-checkbox
   input[type="checkbox"]
   + label
   span {
-  border-color: #e14c7b;
+  border-color: #EDD050;
 }
 .login-registration-dark-style-1
   .single-checkbox
   input[type="checkbox"]
   + label
   span::before {
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .login-registration-dark-style-1 .single-checkbox p {
   color: #fff;
@@ -5425,7 +5427,7 @@ p {
 }
 .login-registration-dark-style-1 .login a {
   text-transform: uppercase;
-  color: #e14c7b;
+  color: #EDD050;
   font-weight: 700;
   margin-left: 20px;
 }
@@ -5559,27 +5561,27 @@ p {
   padding-right: 10px;
 }
 .login-registration-dark-style-2 .single-form .form-input span {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .login-registration-dark-style-2
   .single-checkbox
   input[type="checkbox"]
   + label
   span {
-  border-color: #e14c7b;
+  border-color: #EDD050;
 }
 .login-registration-dark-style-2
   .single-checkbox
   input[type="checkbox"]
   + label
   span::before {
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .login-registration-dark-style-2 .single-checkbox p {
   color: #fff;
 }
 .login-registration-dark-style-2 .login-checkbox-forget .forget {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .login-registration-dark-style-2 .login {
   color: #fff;
@@ -5588,7 +5590,7 @@ p {
 }
 .login-registration-dark-style-2 .login a {
   text-transform: uppercase;
-  color: #e14c7b;
+  color: #EDD050;
   font-weight: 700;
   margin-left: 20px;
 }
@@ -6051,7 +6053,7 @@ p {
   .product-content
   .title
   a:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .checkout-style-dark-1 .checkout-table .product-cart .product-content span {
   color: rgba(255, 255, 255, 0.6);
@@ -6114,7 +6116,7 @@ p {
   color: #fff;
 }
 .checkout-style-dark-1 .checkout-table .product-quantity button:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .checkout-style-dark-1 .checkout-table .product-quantity input {
   background-color: transparent;
@@ -6351,7 +6353,7 @@ p {
   color: rgba(255, 255, 255, 0.38);
 }
 .checkout-style-dark-2 .checkout-header .close:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .checkout-style-dark-2 .checkout-table {
   border-top: 1px solid rgba(255, 255, 255, 0.16);
@@ -6373,7 +6375,7 @@ p {
   .product-content
   .title
   a:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .checkout-style-dark-2
   .checkout-table
@@ -6391,7 +6393,7 @@ p {
   color: rgba(255, 255, 255, 0.8);
 }
 .checkout-style-dark-2 .checkout-table .product-quantity button:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .checkout-style-dark-2 .checkout-table .product-quantity input {
   color: #fff;
@@ -6690,7 +6692,7 @@ p {
   input[type="checkbox"]
   + label
   span {
-  border-color: #e14c7b;
+  border-color: #EDD050;
 }
 .checkout-steps-form-dark-style-1
   .checkout-steps-form-content
@@ -6698,7 +6700,7 @@ p {
   input[type="checkbox"]
   + label
   span::before {
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .checkout-steps-form-dark-style-1
   .checkout-steps-form-content
@@ -7548,7 +7550,7 @@ p {
   .card
   .card-header
   a::before {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .checkout-sidebar-accordion.checkout-sidebar-accordion-dark
   .accordion
@@ -7604,7 +7606,7 @@ p {
   .product-content
   .title
   a:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .checkout-sidebar-accordion.checkout-sidebar-accordion-dark
   .accordion
@@ -7875,7 +7877,7 @@ p {
   color: #fff;
 }
 .profile-dark .profile .profile-title .profile-link {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .profile-dark
   .profile
@@ -8031,7 +8033,7 @@ p {
   color: #fff;
 }
 .filter-style-2.filter-dark .filter-title .title::before {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .filter-style-2.filter-dark .price-range .price-amount .amount-input label {
   color: #fff;
@@ -8044,10 +8046,10 @@ p {
   background-color: rgba(255, 255, 255, 0.32);
 }
 .filter-style-2.filter-dark .price-range .slider-range .ui-slider-range {
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .filter-style-2.filter-dark .price-range .slider-range .ui-slider-handle {
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .filter-style-3 {
   padding: 16px;
@@ -8154,7 +8156,7 @@ p {
   color: #fff;
 }
 .filter-style-3.filter-dark .filter-title .title::before {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .filter-style-3.filter-dark .filter-type {
   padding-top: 8px;
@@ -8173,8 +8175,8 @@ p {
   input[type="checkbox"]:checked
   + label
   span {
-  background-color: #e14c7b;
-  border-color: #e14c7b;
+  background-color: #EDD050;
+  border-color: #EDD050;
 }
 .filter-style-3.filter-dark .filter-type .type-check label {
   color: #fff;
@@ -8263,7 +8265,7 @@ p {
   color: #fff;
 }
 .filter-style-4.filter-dark .filter-title .title::before {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .filter-style-4.filter-dark .filter-size {
   padding-top: 8px;
@@ -8273,8 +8275,8 @@ p {
   color: rgba(255, 255, 255, 0.64);
 }
 .filter-style-4.filter-dark .filter-size ul li.active {
-  background-color: #e14c7b;
-  border-color: #e14c7b;
+  background-color: #EDD050;
+  border-color: #EDD050;
   color: #fff;
 }
 .filter-style-7 {
@@ -8404,7 +8406,7 @@ p {
   color: #fff;
 }
 .filter-style-7.filter-dark .filter-title .title::before {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .filter-style-7.filter-dark .filter-color .color-check p strong {
   color: #fff;
@@ -8423,8 +8425,8 @@ p {
   input[type="checkbox"]:checked
   + label
   span {
-  background-color: #e14c7b;
-  border-color: #e14c7b;
+  background-color: #EDD050;
+  border-color: #EDD050;
 }
 .product-style-1 .product-image {
   position: relative;
@@ -8523,7 +8525,7 @@ p {
   }
 }
 .product-style-1 .product-content .title a:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .product-style-1 .product-content p {
   color: rgba(255, 255, 255, 0.74);
@@ -8713,7 +8715,7 @@ p {
 .product-style-7 .product-content .price {
   font-weight: 500;
   font-size: 24px;
-  color: #e14c7b;
+  color: #EDD050;
   line-height: 30px;
   margin-top: 8px;
   display: block;
@@ -10270,7 +10272,7 @@ p {
   top: 0;
   left: 0;
   border-radius: 50px;
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .reviews-style
   .reviews-rating-wrapper
@@ -10709,7 +10711,7 @@ p {
   .comment-user-text
   .comment-meta
   li {
-  color: #e14c7b;
+  color: #EDD050;
   font-size: 16px;
   font-weight: 500;
   letter-spacing: 1px;
@@ -10781,15 +10783,15 @@ p {
   color: rgba(255, 255, 255, 0.6);
 }
 .reviews-dark .reviews-menu .nav li a::before {
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .reviews-dark .reviews-menu .nav li a.active {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .reviews-dark .reviews-menu .nav li a.active::before {
   opacity: 1;
   visibility: visible;
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .reviews-dark .reviews-title .title {
   color: #fff;
@@ -10829,7 +10831,7 @@ p {
   .single-reviews-rating-bar
   .rating-bar-inner
   .bar-inner {
-  background-color: #e14c7b;
+  background-color: #EDD050;
 }
 .reviews-dark
   .reviews-rating-wrapper
@@ -10861,7 +10863,7 @@ p {
 }
 .reviews-dark .reviews-btn .reviews-btn-right .main-btn {
   background-color: rgba(255, 255, 255, 0.16);
-  color: #e14c7b;
+  color: #EDD050;
 }
 .reviews-dark .reviews-comment {
   border-color: rgba(255, 255, 255, 0.24);
@@ -10934,7 +10936,7 @@ p {
   .comment-meta
   li
   a:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .footer-style-3 {
   background-color: #fff;
@@ -11052,7 +11054,7 @@ p {
   .single-form
   .form-input
   input:focus {
-  border-color: #e14c7b;
+  border-color: #EDD050;
 }
 .footer-dark-style-3 .footer-top .footer-follow li a {
   color: #fff;
@@ -11064,7 +11066,7 @@ p {
   color: #fff;
 }
 .footer-dark-style-3 .footer-widget .footer-link li a:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .footer-dark-style-3 .footer-copyright p {
   color: #fff;
@@ -11073,7 +11075,7 @@ p {
   color: #fff;
 }
 .footer-dark-style-3 .footer-copyright p a:hover {
-  color: #e14c7b;
+  color: #EDD050;
 }
 .features-section .single-feature-wrapper {
   display: -webkit-box;
