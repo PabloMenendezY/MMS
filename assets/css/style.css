@@ -3132,10 +3132,12 @@ p {
 @media (max-width: 767px) {
   .breadcrumbs-style {
     padding: 1px 16px 16px;
+    background-color: #C8C7B9;
   }
 }
 .breadcrumbs-style .breadcrumb-left {
   padding-top: 15px;
+  
 }
 .breadcrumbs-style .breadcrumb-left .breadcrumb {
   margin-bottom: 0;
