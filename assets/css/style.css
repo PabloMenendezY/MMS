@@ -3039,10 +3039,11 @@ p {
   border: 1px solid #d1d1d1;
   background-color: #fff;
   color: #000;
-  border-radius: 0;
+  border-radius: 5px;
   padding: 0 15px;
   -webkit-transition: all 0.3s linear;
   transition: all 0.3s linear;
+
 }
 .search-style-5 .search-input input:focus {
   border-color: #7DA1BF;
