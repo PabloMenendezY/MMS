@@ -11264,3 +11264,22 @@ p {
 .advertencia {
   font-size: x-small;
 }
+#cajacookies {
+  text-align: center;
+  box-shadow: 0px 0px 5px 5px #808080;
+  background-color: #1A2A37;
+  color: white;
+  top: 0px;
+  width: 100%;
+  text-decoration: white;
+  border-bottom: white;
+  border-color: white;
+  border-width: 2px;
+  
+}
+
+#cajacookies button {
+  align-items:center;
+  color: #EDD050;
+  background-color: #7DA1BF;
+}
